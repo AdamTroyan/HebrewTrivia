@@ -1,7 +1,7 @@
 module.exports = {
     trivia: function(obj, ) {
         const TriviaOptions = {"Easy": true, "Medium": true, "Hard": true}
-        const trivia = require("./Data/trivia.json");
+        const trivia = require("./trivia.json");
 
         if(obj.difficulty in TriviaOptions == false){
             throw '\x1b[31mType error. Please choose valid difficulty!\x1b[m'
@@ -14,7 +14,7 @@ module.exports = {
     },
 
     trivia: function() {
-        const trivia = require("./Data/trivia.json");
+        const trivia = require("./trivia.json");
         let t = trivia[Math.floor(Math.random() * trivia.length)];
         return t;
     }
