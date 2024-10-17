@@ -1,0 +1,445 @@
+[
+{
+    "question": "השנה בה אסור לעבוד אדמה נקראת...",
+    "category": "General Knowledge",
+    "options": [
+        "שנת מעשר עני",
+        "שנת בצורת",
+        "שנת אור",
+        "שנת שמיטה"
+    ],
+    "answer": "שנת שמיטה",
+    "difficulty": "Easy",
+    "correct_option": 4,
+    "amount-of-options": 4
+},
+{
+    "question": "באיזו מדינה שותים סאקה?",
+    "options": [
+        "קוריאה",
+        "איטליה",
+        "יפן",
+        "סין"
+    ],
+    "answer": "יפן",
+    "difficulty": "Medium",
+    "correct_option": 4,
+    "amount-of-options": 4
+},
+{
+    "question": "בתנך, מי בנה את התיבה?",
+    "options": [
+        "יפת",
+        "נח",
+        "יעקב",
+        "משה"
+    ],
+    "answer": "נח",
+    "difficulty": "Easy",
+    "correct_option": 2,
+    "amount-of-options": 4
+},
+{
+    "question": "מי גילה את כח הכבידה?",
+    "options": [
+        "גלילאו גליליי",
+        "סטיבן הוקינג",
+        "אלברט איינשטיין",
+        "אייזק ניוטון"
+    ],
+    "answer": "אייזק ניוטון",
+    "difficulty": "Easy",
+    "correct_option": 4,
+    "amount-of-options": 4
+},
+{
+    "question": "מה המציא תומס אדיסון?",
+    "category": "Entertainment: Television",
+    "options": [
+        "מכונית",
+        "נורת חשמל",
+        "מחשבון",
+        "תנור"
+    ],
+    "answer": "נורת חשמל",
+    "difficulty": "Easy",
+    "correct_option": 2,
+    "amount-of-options": 4
+},
+{
+    "question": "אלת האהבה במיתולוגיה היוונית נקראת…?",
+    "category": "Entertainment: Japanese Anime & Manga",
+    "options": [
+        "דימוס",
+        "אפרודיטה",
+        "פובוס",
+        "פנתאון"
+    ],
+    "answer": "אפרודיטה",
+    "difficulty": "Medium",
+    "correct_option": 2,
+    "amount-of-options": 4
+},
+{
+    "question": "מה מהבאים אינו פרי?",
+    "options": [
+        "שזיף",
+        "פטרוזיליה",
+        "אפרסמון",
+        "בננה"
+    ],
+    "answer": "פטרוזיליה",
+    "difficulty": "Easy",
+    "correct_option": 2,
+    "amount-of-options": 4
+},
+{
+    "question": "שמו של הנהר שעובר בפריז?",
+    "options": [
+        "דנובה",
+        "וולגה",
+        "סיין",
+        "פו"
+    ],
+    "answer": "סיין",
+    "difficulty": "Medium",
+    "correct_option": 3,
+    "amount-of-options": 4
+},
+{
+    "question": "כמה גלגלים יש לתלת אופן?",
+    "options": [
+        "4",
+        "2",
+        "3",
+        "1"
+    ],
+    "answer": "3",
+    "difficulty": "Easy",
+    "correct_option": 3,
+    "amount-of-options": 4
+},
+{
+    "question": "איזה כלי בשחמט יכול לנוע במרחק אלכסון בלבד?",
+    "options": [
+        "פרש",
+        "מלכה",
+        "צריח",
+        "רץ"
+    ],
+    "answer": "רץ",
+    "difficulty": "Easy",
+    "correct_option": 4,
+    "amount-of-options": 4
+},
+{
+    "question": "היכן בארצות הברית נמצא הוליווד?",
+    "options": [
+        "ניו יורק",
+        "ווגאס",
+        "קליפורניה",
+        "לוס אנג'לס"
+    ],
+    "answer": "לוס אנג'לס",
+    "difficulty": "Medium",
+    "correct_option": 4,
+    "amount-of-options": 4
+},
+{
+    "question": "כל כמה שנים נערכות בחירות בישראל?",
+    "options": [
+        "5",
+        "3",
+        "4",
+        "5"
+    ],
+    "answer": "4",
+    "difficulty": "Easy",
+    "correct_option": 3,
+    "amount-of-options": 4
+},
+{
+    "question": "מהי בירת צ'כיה?",
+    "options": [
+        "קוטנה הורה",
+        "ברנו",
+        "קרלווי וארי",
+        "פראג"
+    ],
+    "answer": "פראג",
+    "difficulty": "Medium",
+    "correct_option": 4,
+    "amount-of-options": 4
+},
+{
+    "question": "בלמ'ס פירושו:",
+    "options": [
+        "בלתי מסוכן",
+        "בלתי מסווג",
+        "בלתי מסחרי",
+        "בלתי מספיק"
+    ],
+    "answer": "בלתי מסווג",
+    "difficulty": "Medium",
+    "correct_option": 2,
+    "amount-of-options": 4
+},
+{
+    "question": "איזו מדינה נמצאת בתוך עיר?",
+    "options": [
+        "לוקסמבורג",
+        "סן מרינו",
+        "ותיקן",
+        "מונקו"
+    ],
+    "answer": "ותיקן",
+    "difficulty": "Medium",
+    "correct_option": 3,
+    "amount-of-options": 4
+},
+{
+    "question": "סכום הזווית במשלוש?",
+    "options": [
+        "90",
+        "360",
+        "60",
+        "180"
+    ],
+    "answer": "180",
+    "difficulty": "Easy",
+    "correct_option": 4,
+    "amount-of-options": 4
+},
+{
+    "question": "כלב זאב הוא כינויי לכלב מסוג…",
+    "options": [
+        "רוטוויילר",
+        "רועה גרמני",
+        "האסקי סיבירי",
+        "דוברמן פינצ'ר"
+    ],
+    "answer": "רועה גרמני",
+    "difficulty": "Easy",
+    "correct_option": 2,
+    "amount-of-options": 4
+},
+{
+    "question": "ממה מכינים חלבה?",
+    "options": [
+        "שומשום",
+        "זרעי צ'יה",
+        "בוטנים",
+        "פשתן"
+    ],
+    "answer": "שומשום",
+    "difficulty": "Easy",
+    "correct_option": 1,
+    "amount-of-options": 4
+},
+{
+    "question": "שמו הלועזי של הספר עמי ותמי?",
+    "options": [
+        "ליון וריון",
+        "איימי ודן",
+        "גאורגיה והנרי",
+        "הנזל וגרטל"
+    ],
+    "answer": "הנזל וגרטל",
+    "difficulty": "Hard",
+    "correct_option": 4,
+    "amount-of-options": 4
+},
+{
+    "question": "באיזה גיל מותר להתחתן בישראל?",
+    "options": [
+        "14",
+        "16",
+        "18",
+        "17"
+    ],
+    "answer": "17",
+    "difficulty": "Easy",
+    "correct_option": 4,
+    "amount-of-options": 4
+},
+{
+    "question": "באיזו מחתרת היה חבר מנחם בגין?",
+    "options": [
+        "אצל",
+        "הפלמח",
+        "לחי"
+    ],
+    "answer": "אצל",
+    "difficulty": "Easy",
+    "correct_option": 1,
+    "amount-of-options": 3
+},
+{
+    "question": "מי מהבאים לא השתתף בשיר ״שבט אחים ואחיות״?",
+    "options": [
+        "דודו אהרון",
+        "דני רובס",
+        "רוני דלומי",
+        "בניה ברבי"
+    ],
+    "answer": "בניה ברבי",
+    "difficulty": "Easy",
+    "correct_option": 4,
+    "amount-of-options": 4
+},
+{
+    "question": "מהו שמו האמיתי של דניס לויד?",
+    "options": [
+        "ניר טיבור",
+        "דני צור",
+        "רועי הדר",
+        "ערן גולדמן"
+    ],
+    "answer": "ניר טיבור",
+    "difficulty": "Easy",
+    "correct_option": 1,
+    "amount-of-options": 4
+},
+{
+    "question": "מי הראפר שהופיע בבת מצווה של נועה קירל?",
+    "options": [
+        "עמרי 69 סגל",
+        "איזי",
+        "סטטיק",
+        "עידו בי"
+    ],
+    "answer": "איזי",
+    "difficulty": "Easy",
+    "correct_option": 2,
+    "amount-of-options": 4
+},
+{
+    "question": "מי הזמרת שתרמה 5 מיליון דולר למלחמה בנגיף הקורונה?",
+    "options": [
+        "ריהאנה",
+        "ביונסה",
+        "ליידי גאגא"
+    ],
+    "answer": "ריהאנה",
+    "difficulty": "Easy",
+    "correct_option": 1,
+    "amount-of-options": 3
+},
+{
+    "question": "מה אסור בשום אופן לעשות לגרמלינס?",
+    "options": [
+        "לדגדג אותם",
+        "להשמיע להם מוזיקה",
+        "להרטיב אותם"
+    ],
+    "answer": "להרטיב אותם",
+    "difficulty": "Easy",
+    "correct_option": "3",
+    "amount-of-options": 3
+},
+{
+    "question": "מה שיא העולם בריצת 100 מטר?",
+    "options": [
+        "9.25 שניות",
+        "9.58 שניות",
+        "9.84 שניות"
+    ],
+    "answer": "9.58 שניות",
+    "difficulty": "Medium",
+    "correct_option": "2",
+    "amount-of-options": 3
+},
+{
+    "question": "מי הצייר שצייר את הציור 'ליל כוכבים'?",
+    "options": [
+        "וינסנט ואן גוך",
+        "מיכאלאנג'לו",
+        "פאבלו פיקאסו"
+    ],
+    "answer": "וינסנט ואן גוך",
+    "difficulty": "Medium",
+    "correct_option": "1",
+    "amount-of-options": 3
+},
+{
+    "question": "מי היה 'אחד העם'?",
+    "options": [
+        "חיים ארלוזרוב",
+        "אשר גינצבורג",
+        "אלפר דרייפוס"
+    ],
+    "answer": "אשר גינצבורג",
+    "difficulty": "Medium",
+    "correct_option": "2",
+    "amount-of-options": 3
+},
+{
+    "question": "באיזו שנה התרחש פיגוע מגדלי התאומים?",
+    "options": [
+        "2003",
+        "2001",
+        "2000"
+    ],
+    "answer": "2001",
+    "difficulty": "Easy",
+    "correct_option": "2",
+    "amount-of-options": 3
+},
+{
+    "question": "מי מבין האנשים הבאים לא היה נשיא ארצות הברית?",
+    "options": [
+        "אברהם לינקולן",
+        "בנג'מין פרנקלין",
+        "דוויט אייזנהאואר",
+        "ג'ון אדמס"
+    ],
+    "answer": "בנג'מין פרנקלין",
+    "difficulty": "Medium",
+    "correct_option": "2",
+    "amount-of-options": 4
+},
+{
+    "question": "כמה מדליות אולימפיות יש לישראל?",
+    "options": [
+        "12",
+        "7",
+        "9"
+    ],
+    "answer": "9",
+    "difficulty": "Medium",
+    "correct_option": "3",
+    "amount-of-options": 3
+},
+{
+    "question": "באיזו שנה הסתיימה מלחמת העולם השנייה?",
+    "options": [
+        "1943",
+        "1941",
+        "1945"
+    ],
+    "answer": "1945",
+    "difficulty": "Easy",
+    "correct_option": "3",
+    "amount-of-options": 3
+},
+{
+    "question": "",
+    "options": [
+
+    ],
+    "answer": "",
+    "difficulty": "",
+    "correct_option": "",
+    "amount-of-options": 4
+},
+{
+    "question": "",
+    "options": [
+
+    ],
+    "answer": "",
+    "difficulty": "",
+    "correct_option": "",
+    "amount-of-options": 4
+}
+]
